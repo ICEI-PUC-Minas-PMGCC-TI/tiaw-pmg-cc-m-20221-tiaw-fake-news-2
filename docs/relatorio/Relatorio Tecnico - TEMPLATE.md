@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Negare
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciência da Computação
 
 ## Participantes
 
@@ -14,8 +14,11 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Diogo Henrique de Souza Costa
+> - Iago Nathan Baruc Soares Silva
+> - Lucca Cenisio Martins
+> - Matheus Antônio de Lima Sinis
+> - Vitória de Lourdes Carvalho Santos
 
 # Estrutura do Documento
 
@@ -54,9 +57,12 @@
 
 # Introdução
 
+“Negare” é uma plataforma para discussões a respeito das notícias lidas na internet através de um fórum, a fim de verificar sua veracidade, levando as notícias da forma mais leve possível. Além disso, o site ajuda os leitores a identificar notícias falsas através de elementos apresentados nas mesmas. 
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O compartilhamento de notícias falsas pode causar grandes problemas, pois leva um compartilhamento em massa de desinformação, levando as pessoas a acreditarem na notícia sem se preocuparem se é verdadeira ou não, ficando cada vez mais difícil repassar  à informação correta. Dessa forma, as pessoas se tornam facilmente manipuláveis por pessoas má intencionadas.
+
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -76,7 +82,7 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A ideia do projeto é desenvolver um site acessível a público aberto com suporte a postagem de notícias para análise dos próprios usuários. A postagem é feita a partir de um portal ao estilo fórum e, assim que estiver publicada, estará disponível para análise popular. Em uma sessão de comentários dedicados, os usuários poderão discutir sobre a veracidade da notícia e suas fontes, contribuindo com fontes que argumentam contra ou a favor da notícia em discussão.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -89,7 +95,8 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Devido ao impacto das fake news em diversas áreas sociais, como na política e no meio científico, muitas pessoas estão tendo acesso à notícias falsas que são produzidas por pessoas mal intencionadas que de alguma forma deseja manipular essa informação para o seu próprio bem, gerando desinformação em massa. Por isso, desenvolvemos um site que visa reduzir a propagação de fake news para todas as pessoas que têm acesso à informações e notícias no seu dia a dia em redes sociais.
+
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -105,7 +112,10 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Homens e mulheres de todas as idades, que são brasileiros, estão sempre à procura de saber a verdade e que gostam de combater a fake news.
+Não temos um público principal, é uma plataforma aberta e acessível para brasileiros de todas as idades comprometidos com a verdade e que gostam de combater as fake news.
+Em especial, visamos também a parcela populacional como menos acesso à informação pois, percebe-se nela assim como nas pessoas idosas, uma maior suscetibilidade à notícias falsas. Um agravante no caso dos idosos é a comum barreira do conhecimento tecnológico, deixando-os desprotegidos enquanto navegam pela internet.
+
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -186,16 +196,27 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Sistema de login e criação de contas | MÉDIA | 
+|RF-002| Perfil do usuário   | MÉDIA |
+|RF-003| Deve ser possível publicar novas notícias em um fórum.| ALTA |
+|RF-004| Comentário em notícias publicadas do fórum| ALTA |
+|RF-005| Avaliar comentários de outros usuários nos fóruns de notícia | BAIXA |
+|RF-006| Feed de notícias | ALTA |
+|RF-007| Aba com dicas sobre as características comuns de notícias falsas| ALTA |
+|RF-008| Aba que indica sites com tendências mais ou menos confiáveis | ALTA |
+|RF-009| Avaliar a veracidade de uma notícia com base nos comentários que ela recebeu | ALTA |
+|RF-010| Sistema de reputação de conta dos usuários. | BAIXA |
+|RF-011| Resumo sobre as discussões de uma notícia, para verificação rápida das informações mais relevantes. | BAIXA |
+
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Linguagem - Html/ CSS e Javascript | ALTA | 
+|RNF-002| Banco de dados -  FireBase |  ALTA |
+|RNF-003| Plataforma - Web | ALTA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -225,9 +246,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
+|01| Falta de conhecimento de todas as funções da linguagem|
+|02|Falta de recursos financeiros para contratação de softwares avançados|
+|03|O prazo do projeto pode ser curto para a execução de todas as ideias e o custo do projeto pode ser caro por precisar de ferramentas pagas, por exemplo o FireBase que tem sua parte gratuita mas talvez não seja suficiente pelo tamanho do projeto|
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
 > geralmente limitam a solução candidata.
@@ -307,7 +328,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+https://trello.com/invite/b/RPSIdZu9/37e07c28d40b155be6af5ba82588bfe1/fake-news
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
@@ -322,10 +343,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVOB6_Ecc=/ | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-fake-news-2.git | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/1eYS0inTR6MyvqIXkXx6FS/Untitled?node-id=0%3A1 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -333,8 +354,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > As ferramentas empregadas no projeto são:
 > 
-> - Editor de código.
-> - Ferramentas de comunicação
+> - Editor de código - Visual Studio Code
+> - Ferramentas de comunicação - Discord, whatsapp
 > - Ferramentas de diagramação
 > - Plataforma de hospedagem
 > 
