@@ -82,6 +82,10 @@ O compartilhamento de notícias falsas pode causar grandes problemas, pois leva 
 
 ## Objetivos
 
+Objetivo Geral :
+Reduzir a propação de fake news.
+
+Objetivo específico:
 A ideia do projeto é desenvolver um site acessível a público aberto com suporte a postagem de notícias para análise dos próprios usuários. A postagem é feita a partir de um portal ao estilo fórum e, assim que estiver publicada, estará disponível para análise popular. Em uma sessão de comentários dedicados, os usuários poderão discutir sobre a veracidade da notícia e suas fontes, contribuindo com fontes que argumentam contra ou a favor da notícia em discussão.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
@@ -134,7 +138,7 @@ Em especial, visamos também a parcela populacional como menos acesso à informa
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto utilizou técnicas para alinhar o problema dos usuários e mapear como o problema pode ser resolvido, com a criação de personas e mapa de empatia pra entender o problema do usuario. As outras técnicas utilizadas são apresentadas a seguir no resto da documentação.
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -142,7 +146,17 @@ Em especial, visamos também a parcela populacional como menos acesso à informa
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![PMGCC-M - T1-G6 - Fake News 2](https://user-images.githubusercontent.com/101272856/163691378-a9ec6546-deb1-45f5-8aba-bdc1cc8f0c3f.jpg)
+
+![PMGCC-M - T1-G6 - Fake News 2 (1)](https://user-images.githubusercontent.com/101272856/163691388-4e69cf9f-e1a8-4a1e-9c68-1cb3213dd56f.jpg)
+
+![PMGCC-M - T1-G6 - Fake News 2 (2)](https://user-images.githubusercontent.com/101272856/163691405-a685e548-1688-4bb3-b6d3-9fbff6b3cd82.jpg)
+
+![PMGCC-M - T1-G6 - Fake News 2 (3)](https://user-images.githubusercontent.com/101272856/163691413-274b5afa-a8be-47f6-aa8e-8bb25eb82f53.jpg)
+
+![PMGCC-M - T1-G6 - Fake News 2 (4)](https://user-images.githubusercontent.com/101272856/163691429-4efe9836-db42-4cd3-94d8-0ae41c10c70c.jpg)
+
+![PMGCC-M - T1-G6 - Fake News 2 (5)](https://user-images.githubusercontent.com/101272856/163691438-47f1c925-ad3d-4013-b3b6-63248b66ddaf.jpg)
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
@@ -174,8 +188,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Ler notícias verdadeiras                         | Me manter informado      |
+|Usuário do sistema  | Descobrir se determinada noticia é verdadeira    | Ter certeza que estou me informando corretamente |
+|Usuário do sistema  | Descobrir como identificar se uma notícia é falsa| Não acreditar em todas as notícias que eu vejo sem antes analisá-las|
+|Usuário do sistema  | Debater sobre a veracidade de notícias           | Para aprender a entender como outras pessoas entendem que uma notícia é falsa|
+|Usuário do sistema  | Diminuir a propagação de fake news               | Que haja menos pessoas desinformadas      |
+|Usuário do sistema  | xxxxxxxxxxxxxxx                                  | Me manter informado      |
+
+
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -288,7 +308,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+![Tela principal](https://user-images.githubusercontent.com/101272856/163691511-9854dd07-772c-4251-9977-088eace48184.png)
+  Tela principal de quando o usuário abre o site sem fazer o login
+  
+![Cadastro](https://user-images.githubusercontent.com/101272856/163691535-5ca77d59-b5f6-4f64-9bad-24e20b304a9c.png)
+
+
+![Tela principal logado](https://user-images.githubusercontent.com/101272856/163691522-cb2aef24-17ea-4257-88bb-112f62884251.png)
+  Após fazer o login
+  
+![Tela principal logado-1](https://user-images.githubusercontent.com/101272856/163691527-ad90c61c-6aaa-4ef9-86e9-e31cb27fedc4.png)
+
+![dicas](https://user-images.githubusercontent.com/101272856/163691537-289c1e75-b640-43b5-a45e-b7d45cefa7e8.png)
+
+![Nossas notícias](https://user-images.githubusercontent.com/101272856/163691539-5f4d50f0-bc37-4417-a5de-0e948880a159.png)
+
+![Postagem Usuario](https://user-images.githubusercontent.com/101272856/163691540-4f4fb805-b93c-40ff-b7ba-46651acd592e.png)
+
+![Postagem](https://user-images.githubusercontent.com/101272856/163691541-f772c3c4-9951-43ab-8065-d28c2ce50266.png)
+
+![Sites confiaveis](https://user-images.githubusercontent.com/101272856/163691542-48747cc7-b421-4eb9-b6bd-212c4bd0e5ca.png)
+
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -339,7 +379,7 @@ https://trello.com/invite/b/RPSIdZu9/37e07c28d40b155be6af5ba82588bfe1/fake-news
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+As ferramentas escolhidas estão listadas abaixo e o motivo da escolha de cada uma é principalmente a praticidade de cada uma delas e a possibilidade de realização do trabalho em conjunto.
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -347,6 +387,8 @@ https://trello.com/invite/b/RPSIdZu9/37e07c28d40b155be6af5ba82588bfe1/fake-news
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-fake-news-2.git | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/1eYS0inTR6MyvqIXkXx6FS/Untitled?node-id=0%3A1 | 
+|Editor de código| Visual Studio Code | 
+|Ferramentas de comunicação| Discord e Whatsapp |
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -373,7 +415,7 @@ https://trello.com/invite/b/RPSIdZu9/37e07c28d40b155be6af5ba82588bfe1/fake-news
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O controle de versão foi feito através do repositório do GITHUB
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
