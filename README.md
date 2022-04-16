@@ -5,7 +5,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Diogo Henrique de Souza Costa
-* Nome completo do aluno 2
+* Vitória de Lourdes Carvalho Santos
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
