@@ -312,22 +312,28 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
   Tela principal de quando o usuário abre o site sem fazer o login
   
 ![Cadastro](https://user-images.githubusercontent.com/101272856/163691535-5ca77d59-b5f6-4f64-9bad-24e20b304a9c.png)
+  Tela de cadastro
 
 
 ![Tela principal logado](https://user-images.githubusercontent.com/101272856/163691522-cb2aef24-17ea-4257-88bb-112f62884251.png)
   Após fazer o login
   
 ![Tela principal logado-1](https://user-images.githubusercontent.com/101272856/163691527-ad90c61c-6aaa-4ef9-86e9-e31cb27fedc4.png)
+  Tela principal com cadastro
 
 ![dicas](https://user-images.githubusercontent.com/101272856/163691537-289c1e75-b640-43b5-a45e-b7d45cefa7e8.png)
+  Tela sobre dicas de como descobrir se uma notícia é falsa
 
 ![Nossas notícias](https://user-images.githubusercontent.com/101272856/163691539-5f4d50f0-bc37-4417-a5de-0e948880a159.png)
+  Notícias postadas pelos administradores
 
 ![Postagem Usuario](https://user-images.githubusercontent.com/101272856/163691540-4f4fb805-b93c-40ff-b7ba-46651acd592e.png)
+  
 
 ![Postagem](https://user-images.githubusercontent.com/101272856/163691541-f772c3c4-9951-43ab-8065-d28c2ce50266.png)
 
 ![Sites confiaveis](https://user-images.githubusercontent.com/101272856/163691542-48747cc7-b421-4eb9-b6bd-212c4bd0e5ca.png)
+  Aba sobre sites confiáveis
 
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
