@@ -9,7 +9,6 @@ Ciência da Computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
@@ -64,21 +63,7 @@ Ciência da Computação
 O compartilhamento de notícias falsas pode causar grandes problemas, pois leva um compartilhamento em massa de desinformação, levando as pessoas a acreditarem na notícia sem se preocuparem se é verdadeira ou não, ficando cada vez mais difícil repassar  à informação correta. Dessa forma, as pessoas se tornam facilmente manipuláveis por pessoas má intencionadas.
 
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
 
 ## Objetivos
 
@@ -88,31 +73,14 @@ Reduzir a propação de fake news.
 Objetivo específico:
 A ideia do projeto é desenvolver um site acessível a público aberto com suporte a postagem de notícias para análise dos próprios usuários. A postagem é feita a partir de um portal ao estilo fórum e, assim que estiver publicada, estará disponível para análise popular. Em uma sessão de comentários dedicados, os usuários poderão discutir sobre a veracidade da notícia e suas fontes, contribuindo com fontes que argumentam contra ou a favor da notícia em discussão.
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 
 Devido ao impacto das fake news em diversas áreas sociais, como na política e no meio científico, muitas pessoas estão tendo acesso à notícias falsas que são produzidas por pessoas mal intencionadas que de alguma forma deseja manipular essa informação para o seu próprio bem, gerando desinformação em massa. Por isso, desenvolvemos um site que visa reduzir a propagação de fake news para todas as pessoas que têm acesso à informações e notícias no seu dia a dia em redes sociais.
 
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
@@ -121,28 +89,12 @@ Não temos um público principal, é uma plataforma aberta e acessível para bra
 Em especial, visamos também a parcela populacional como menos acesso à informação pois, percebe-se nela assim como nas pessoas idosas, uma maior suscetibilidade à notícias falsas. Um agravante no caso dos idosos é a comum barreira do conhecimento tecnológico, deixando-os desprotegidos enquanto navegam pela internet.
 
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
  
 # Especificações do Projeto
 
 O projeto utilizou técnicas para alinhar o problema dos usuários e mapear como o problema pode ser resolvido, com a criação de personas e mapa de empatia pra entender o problema do usuario. As outras técnicas utilizadas são apresentadas a seguir no resto da documentação.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
 
@@ -159,28 +111,6 @@ O projeto utilizou técnicas para alinhar o problema dos usuários e mapear como
 ![PMGCC-M - T1-G6 - Fake News 2 (5)](https://user-images.githubusercontent.com/101272856/163691438-47f1c925-ad3d-4013-b3b6-63248b66ddaf.jpg)
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
-
 
 ## Histórias de Usuários
 
@@ -196,17 +126,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Fácil acesso a notícias                                  | Me manter informado      |
 
 
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -238,26 +157,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| Banco de dados -  FireBase |  ALTA |
 |RNF-003| Plataforma - Web | ALTA |
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 ## Restrições
@@ -267,15 +166,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| Falta de conhecimento de todas as funções da linguagem|
-|02|Falta de recursos financeiros para contratação de softwares avançados|
-|03|O prazo do projeto pode ser curto para a execução de todas as ideias e o custo do projeto pode ser caro por precisar de ferramentas pagas, por exemplo o FireBase que tem sua parte gratuita mas talvez não seja suficiente pelo tamanho do projeto|
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|02| Falta de recursos financeiros para contratação de softwares avançados|
+|03| O prazo do projeto pode ser curto para a execução de todas as ideias e o custo do projeto pode ser caro por precisar de ferramentas pagas, por exemplo o FireBase que tem sua parte gratuita mas talvez não seja suficiente pelo tamanho do projeto|
 
 
 # Projeto de Interface
@@ -336,20 +228,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
   Aba sobre sites confiáveis
 
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+
 
 
 # Metodologia
@@ -373,14 +252,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
-
+A divisão dos papéis foi feita através do trello usando a metodologia scrum.
 https://trello.com/invite/b/RPSIdZu9/37e07c28d40b155be6af5ba82588bfe1/fake-news
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 
 ## Ferramentas
@@ -397,27 +271,7 @@ As ferramentas escolhidas estão listadas abaixo e o motivo da escolha de cada u
 |Ferramentas de comunicação| Discord e Whatsapp |
 
 >
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código - Visual Studio Code
-> - Ferramentas de comunicação - Discord, whatsapp
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+>
 
 ## Controle de Versão
 
