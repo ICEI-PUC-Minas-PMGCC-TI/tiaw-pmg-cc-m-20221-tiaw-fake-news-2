@@ -193,7 +193,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Descobrir como identificar se uma notícia é falsa| Não acreditar em todas as notícias que eu vejo sem antes analisá-las|
 |Usuário do sistema  | Debater sobre a veracidade de notícias           | Para aprender a entender como outras pessoas entendem que uma notícia é falsa|
 |Usuário do sistema  | Diminuir a propagação de fake news               | Que haja menos pessoas desinformadas      |
-|Usuário do sistema  | xxxxxxxxxxxxxxx                                  | Me manter informado      |
+|Usuário do sistema  | Fácil acesso a notícias                                  | Me manter informado      |
 
 
 
