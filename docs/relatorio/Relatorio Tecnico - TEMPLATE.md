@@ -338,7 +338,17 @@ O controle de versão vai ser feito através do GITHUB, o versionamento do softw
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
+https://www.totvs.com/blog/negocios/metodologia-agil/#:~:text=Metodologia%20ágil%20é%20uma%20forma,tantos%20obstáculos%2C%20com%20total%20iteratividade.
+
+https://pt.wikipedia.org/wiki/Notícia_falsa
+
+https://gutepropaganda.com.br/escolhendo-as-cores-para-sua-logomarca/
+
+https://www.agazetabahia.com/tomas/34307/a-fake-news-do-folha-de-s-paulo-e-a-morte-da-rainha-12-04-2022/
+
+https://brasilescola.uol.com.br/curiosidades/o-que-sao-fake-news.htm 
+
+https://www.metropoles.com/saude/desinformacao-e-fake-news-12-ainda-nao-tomaram-vacina-contra-covid
 
 > Inclua todas as referências (livros, artigos, sites, etc) utilizados
 > no desenvolvimento do trabalho.
