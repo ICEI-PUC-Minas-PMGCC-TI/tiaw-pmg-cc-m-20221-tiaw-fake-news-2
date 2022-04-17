@@ -1,11 +1,12 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-Negare
+-Negare-
+
 
 `CURSO` 
 
-Ciência da Computação
+Ciência da Computação - PUC MINAS- Coração Eucarístico
 
 ## Participantes
 
