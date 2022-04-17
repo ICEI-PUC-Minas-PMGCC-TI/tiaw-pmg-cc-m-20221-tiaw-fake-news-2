@@ -181,7 +181,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## User Flow
 
-![Negare drawio_page-0001](https://user-images.githubusercontent.com/101272856/163730962-cb39468f-9190-4a80-a96e-6df1ea2f0c36.jpg)
+![Negare drawio_page-0001](https://user-images.githubusercontent.com/101272856/163731175-7e0c4efd-ec9d-4e73-96ab-c379d2513287.jpg)
+
 
 
 ## Wireframes
