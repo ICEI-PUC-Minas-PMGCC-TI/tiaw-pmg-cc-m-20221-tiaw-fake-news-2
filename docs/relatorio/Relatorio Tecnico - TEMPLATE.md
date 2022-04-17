@@ -172,7 +172,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Devido ao fato de que o nosso público-alvo é muito amplo, temos a preocupação de fazer uma interface simples e prática para que pessoas de todas as idades consigam acessar facilmente o produto.
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
@@ -207,41 +207,34 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
   Notícias postadas pelos administradores
 
 ![Postagem Usuario](https://user-images.githubusercontent.com/101272856/163691540-4f4fb805-b93c-40ff-b7ba-46651acd592e.png)
-  
+  Tela pra ver a postagem da notícia do usuário com mais detalhes
 
 ![Postagem](https://user-images.githubusercontent.com/101272856/163691541-f772c3c4-9951-43ab-8065-d28c2ce50266.png)
-
+  Tela que mostra o procedimento pro usuário postar uma notícia
 ![Sites confiaveis](https://user-images.githubusercontent.com/101272856/163691542-48747cc7-b421-4eb9-b6bd-212c4bd0e5ca.png)
   Aba sobre sites confiáveis
 
 
-
-
-
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O grupo adotou metodologias como o SCRUM para alinhar o desenvolvimento desta etapa do projeto, utilizamos também várias metodologias para levantamento dos problemas dos usuários, para a criação de personas, brainstorming de ideias, afim de fazer o entendimento do problema e explorar as ideias para solucioná-lo. A divisão de papéis foi feita atráves do Trello, onde é possível fazer uma boa gerência do projeto e dos papéis individuais dos membros da equipe.
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 A divisão dos papéis foi feita através do trello usando a metodologia scrum.
 https://trello.com/invite/b/RPSIdZu9/37e07c28d40b155be6af5ba82588bfe1/fake-news
 
+Além da divisão pelo Trello, nessa etapa, o entendimento do problema e o levantamento de ideias foi feito em conjunto e a equipe participou de todas as tarefas em conjuntos, apenas em alguns momentos alguns membros ficaram mais responsáveis por determinadas funções. 
+
+Diogo Henrique - Repositório Github, revisão dos documentos a serem entregues;
+
+Iago Nathan  -  Documentação;
+
+Lucca Cenísio - Documentação;
+
+Matheus Sinis - Repositório Github, criação do user flow;
+
+Vitória De Lourdes - Repositório Github, criação do slide, apresentação;
 
 
 ## Ferramentas
@@ -257,12 +250,10 @@ As ferramentas escolhidas estão listadas abaixo e o motivo da escolha de cada u
 |Editor de código| Visual Studio Code | 
 |Ferramentas de comunicação| Discord e Whatsapp |
 
->
->
 
 ## Controle de Versão
 
-O controle de versão foi feito através do repositório do GITHUB
+O controle de versão foi feito através do repositório criado no GITHUB
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
